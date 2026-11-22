@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Chidi
+I'm Chidi
 
 I'm a Data Scientist working as an Insights and Intelligence Analyst within a consumer research team, I specialise in delivering reliable, high-quality consumer insight through strong operational execution.
 
