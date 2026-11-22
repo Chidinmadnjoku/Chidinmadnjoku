@@ -4,7 +4,7 @@ I'm Chidi.
 
 As Data Scientist working as an Insights and Intelligence Analyst within a consumer research team, I specialise in delivering reliable, high-quality consumer insight through strong operational execution.
 
-In my current role, I manage operations for a consumer global tracker survey, ensuring that data is consistently collected, validated, and delivered in a way that supports decision-making. My strength sits in building and maintaining the systems that make data, insights and decisions possible.
+In my current role, I manage operations for a global consumer tracker survey, ensuring that data is consistently collected, validated, and delivered in a way that supports decision-making. My strength sits in building and maintaining the systems that make data, insights and decisions possible.
 
 My work has been focused on ensuring the enterprise data are trusted, usable, discoverable, and valuable to business users. They have been centered around three core areas:
 
