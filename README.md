@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Chidi
+I'm Chidi.
 
-I'm a Data Scientist working as an Insights and Intelligence Analyst within a consumer research team, I specialise in delivering reliable, high-quality consumer insight through strong operational execution.
+As Data Scientist working as an Insights and Intelligence Analyst within a consumer research team, I specialise in delivering reliable, high-quality consumer insight through strong operational execution.
 
 My goal is to transition into Data / AI Product Management or Enterprise Intelligence Operations role in the near future.
 
